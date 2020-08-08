@@ -1,6 +1,8 @@
 public class test {
     public String id;
     public String agrss;
+    public String name;
+
     public static void main(String[] args) {
         System.out.println("hello work");
         System.out.println("1111111");
